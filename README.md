@@ -1,16 +1,62 @@
 ## Hi there 👋
 
-<!--
-**laurman1/laurman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Laurens 👋
 
-Here are some ideas to get you started:
+Computer Science student focused on immersive technology and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I build interactive systems using Unity, with a strong interest in:
+
+- 🥽 Virtual & Mixed Reality (Quest 3, OpenXR)
+- 🎮 Unity Development (XR Interaction Toolkit, OVR)
+- 🤖 AI Systems (Pathfinding, Behavior Graphs, Reinforcement Learning)
+- 🌐 Frontend Web Development
+
+I enjoy combining AI and XR to create meaningful interactive experiences.
+
+---
+
+## Selected Projects
+
+**Mixed Reality Balance Trainer**  
+Quest 3 MR application where users step on virtual lilypads to train balance and coordination.
+
+**Predator–Prey Simulation**  
+AI-driven Unity simulation using:
+- Behavior Graphs
+- NavMesh navigation
+- Procedurally generated environments (Perlin noise)
+
+**Photographer Portfolio Website**  
+Responsive website with project gallery and contact form integrated with Google Sheets.
+
+---
+
+## Tech Stack
+
+Unity • C# • OpenXR • XR Interaction Toolkit • OVR  
+NavMesh • Behavior Graphs • Reinforcement Learning  
+HTML • CSS • JavaScript  
+
+---
+
+## Currently Learning
+
+- Advanced AI decision systems
+- Mixed Reality interaction design
+- Production-ready XR architecture
+
+---
+
+## Contact
+
+LinkedIn: [Add your link]  
+Email: [Add your email]
+
+---
+
+Thanks for visiting.
+
