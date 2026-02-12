@@ -28,6 +28,7 @@ Created with Unity, made in collaboration with Gentofte Hospital
 **Virtual Reality Shoulder Rehabilitation Program**
 Quest 2 VR application, where users perform rehabilitation exercises in a virtual environment, guided by a virtual instructor.
 Created with Unity, developed in collaboration with certified physiotherapists.
+Published by IEEEVR: https://ieeexplore.ieee.org/abstract/document/10972776
 
 **Predator–Prey Simulation**  
 AI-driven Unity simulation using:
@@ -40,7 +41,7 @@ Responsive website with project gallery and contact form integrated with Google 
 
 **Physiologically adapted narrative game**
 Narratively driven game made adaptive by detecting stress using EDA and HRV
-Created with Unreal Engine
+Created with Unreal Engine.
 
 ---
 
