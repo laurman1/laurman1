@@ -1,8 +1,7 @@
-## Hi there 👋
 
-# Hi, I'm Laurens 👋
+# Hi, I'm Laurids 👋
 
-Computer Science student focused on immersive technology and intelligent systems.
+Computer Science student focused on immersive technology and interactive systems.
 
 ---
 
@@ -10,19 +9,25 @@ Computer Science student focused on immersive technology and intelligent systems
 
 I build interactive systems using Unity, with a strong interest in:
 
-- 🥽 Virtual & Mixed Reality (Quest 3, OpenXR)
-- 🎮 Unity Development (XR Interaction Toolkit, OVR)
-- 🤖 AI Systems (Pathfinding, Behavior Graphs, Reinforcement Learning)
-- 🌐 Frontend Web Development
+-  Virtual & Mixed Reality 
+-  Game Development 
+-  AI Systems 
+-  User-centered development
+-  Modeling and animation
 
-I enjoy combining AI and XR to create meaningful interactive experiences.
+I enjoy combining user involvement, programming and creativity to create meaningful interactive experiences.
 
 ---
 
 ## Selected Projects
 
 **Mixed Reality Balance Trainer**  
-Quest 3 MR application where users step on virtual lilypads to train balance and coordination.
+Quest 3 MR application, where users step on virtual lilypads to train balance and coordination.
+Created with Unity, made in collaboration with Gentofte Hospital
+
+**Virtual Reality Shoulder Rehabilitation Program**
+Quest 2 VR application, where users perform rehabilitation exercises in a virtual environment, guided by a virtual instructor.
+Created with Unity, developed in collaboration with certified physiotherapists.
 
 **Predator–Prey Simulation**  
 AI-driven Unity simulation using:
@@ -33,19 +38,22 @@ AI-driven Unity simulation using:
 **Photographer Portfolio Website**  
 Responsive website with project gallery and contact form integrated with Google Sheets.
 
+**Physiologically adapted narrative game**
+Narratively driven game made adaptive by detecting stress using EDA and HRV
+Created with Unreal Engine
+
 ---
 
 ## Tech Stack
 
-Unity • C# • OpenXR • XR Interaction Toolkit • OVR  
-NavMesh • Behavior Graphs • Reinforcement Learning  
-HTML • CSS • JavaScript  
+Unity • C# • Unreal Engine • XR Interaction Toolkit • Blender • 
+Behavior Graphs • Machine learning algorithms • HTML • CSS   
 
 ---
 
 ## Currently Learning
 
-- Advanced AI decision systems
+- Multimodal narrative-driven systems
 - Mixed Reality interaction design
 - Production-ready XR architecture
 
@@ -54,7 +62,7 @@ HTML • CSS • JavaScript
 ## Contact
 
 LinkedIn: [Add your link]  
-Email: [Add your email]
+Email: laur8250@hotmail.dk
 
 ---
 
