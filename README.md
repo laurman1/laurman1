@@ -43,6 +43,7 @@ Responsive website with project gallery and contact form integrated with Google 
 Narratively driven game made adaptive by detecting stress using EDA and HRV
 Created with Unreal Engine.
 
+See projects at https://laurman1.github.io/
 ---
 
 ## Tech Stack
