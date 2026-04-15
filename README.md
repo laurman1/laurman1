@@ -63,7 +63,7 @@ Behavior Graphs • Machine learning algorithms • HTML • CSS
 
 ## Contact
 
-LinkedIn: [Add your link]  
+LinkedIn: https://www.linkedin.com/in/laurids-jacobsen-7762853b0/  
 Email: laur8250@hotmail.dk
 
 ---
